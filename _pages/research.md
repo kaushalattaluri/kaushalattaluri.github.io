@@ -51,10 +51,10 @@ author_profile: true
 <div class="research-block">
   <div class="research-text">
     <h3>University of Vigo</h3>
-    <p><em>Researcher - Federated Learning, Systems, Privacy, 2025 - Present</em></p>
+    <p><em>Researcher - Federated Learning, Machine Learning Systems, Privacy, 2025 - Present</em></p>
   </div>
   <div class="research-image">
-    <img src="/images/mit.jpg" alt="MIT Research">
+    <img src="/images/UniversityOfVigo.png" alt="UVigo">
   </div>
 </div>
 
@@ -64,7 +64,7 @@ author_profile: true
     <p><em>Research Engineer, 2022–2023</em></p>
   </div>
   <div class="research-image">
-    <img src="/images/incois.jpg" alt="INCOIS Research">
+    <img src="/images/incois.jpeg" alt="INCOIS Research">
   </div>
 </div>
 
@@ -74,7 +74,7 @@ author_profile: true
     <p><em>Machine Learning Engineer, 2021-22</em></p>
   </div>
   <div class="research-image">
-    <img src="/images/cair.jpg" alt="DRDO Research">
+    <img src="/images/cair.jpeg" alt="DRDO Research">
   </div>
 </div>
 
@@ -84,7 +84,7 @@ author_profile: true
     <p><em>Research Assistant - IoT, onem2m 2022</em></p>
   </div>
   <div class="research-image">
-    <img src="/images/iiit.jpg" alt="IIIT Hyderabad Research">
+    <img src="/images/iiith.jpg" alt="IIIT Hyderabad Research">
   </div>
 </div>
 
@@ -94,7 +94,7 @@ author_profile: true
     <p><em>Research Assistant - Stock Market Forecasting, Time-Series, 2022-23 </em></p>
   </div>
   <div class="research-image">
-    <img src="/images/fifth.jpg" alt="Fifth Research">
+    <img src="/images/vce.jpeg" alt="Fifth Research">
   </div>
 </div>
 

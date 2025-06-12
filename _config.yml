@@ -22,12 +22,12 @@ repository               : "kaushalattaluri/kaushalattaluri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Avatar.jpeg"
+  avatar           : Avatar.jpeg
   name             : "Kaushal Attaluri"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer | Machine Learning Engineer | Researcher"
   location         : "Hyderabad, India"
-  employer         : "Pegasystems Worldwide India Pvt Ltd"
+  employer         : "Pegasystems Worldwide Pvt Ltd"
   uri              : # URL
   email            : "iamkaushal49@gmail.com" 
 
@@ -53,7 +53,7 @@ author:
   # Social media
   bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : iamkaushal49
+  flickr           : ""
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username

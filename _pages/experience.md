@@ -50,7 +50,7 @@ author_profile: true
 
 <div class="experience-block">
   <div class="experience-text">
-    <h3>Pegasystems – Software Engineer, AI Team</h3>
+    <h3>Pegasystems – Software Engineer, AI, Cloud Engineering</h3>
     <p><em>Jan 2023 – Present</em></p>
   </div>
   <div class="experience-image">
@@ -64,7 +64,7 @@ author_profile: true
     <p><em>Jun 2022 – Sep 2022</em></p>
   </div>
   <div class="experience-image">
-    <img src="/images/incois.jpg" alt="INCOIS Logo">
+    <img src="/images/taiyoai.png" alt="Taiyo Logo">
   </div>
 </div>
 
@@ -84,7 +84,7 @@ author_profile: true
     <p><em>May 2022 – Jun 2022</em></p>
   </div>
   <div class="experience-image">
-    <img src="/images/drdo.jpg" alt="DRDO Logo">
+    <img src="/images/vitara.jpeg" alt="vitara logo">
   </div>
 </div>
 

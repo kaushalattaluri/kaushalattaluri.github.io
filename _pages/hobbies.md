@@ -40,7 +40,7 @@ author_profile: true
 </style>
 
 <div class="hobby-section">
-  <img src="/images/football.jpg" alt="Playing Sports">
+  <img src="/images/football.png" alt="Playing Sports">
   <div class="hobby-description">
     <h3>⚽ Playing Sports</h3>
     <p>I’m deeply passionate about sports, especially football, tennis, and running. I’ve competed at various levels and continue to stay active.</p>
@@ -56,7 +56,7 @@ author_profile: true
 </div>
 
 <div class="hobby-section">
-  <video src="/videos/guitar.mp4" controls poster="/images/guitar.jpg"></video>
+   <img src="/images/guitar.png" alt="Playing Sports">
   <div class="hobby-description">
     <h3>🎸 Playing Guitar</h3>
     <p>Music is my personal escape. I've been a guitarist since school – performed in our school band and now in my office band as well. I’ve also studied for the <strong>Rock & Pop Guitar Exam</strong> from <em>Trinity College of London</em>.</p>
@@ -65,10 +65,10 @@ author_profile: true
 </div>
 
 <div class="hobby-section">
-  <img src="/images/landscape.jpg" alt="Photography">
+  <img src="/images/landscape.png" alt="Photography">
   <div class="hobby-description">
     <h3>📸 Photography</h3>
     <p>I’ve recently started exploring photography, especially landscapes. It’s taught me how to find beauty in details and slow down. I share my work regularly.</p>
-    <p>📷 Check out some of my captures on <a href="https://www.flickr.com/" target="_blank">Flickr</a>.</p>
+    <p>📷 Check out some of my captures on <a href="https://www.flickr.com/photos/199165248@N03/" target="_blank">Flickr</a>.</p>
   </div>
 </div>

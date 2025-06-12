@@ -69,7 +69,7 @@ author_profile: true
 </div>
 
 <div class="entrepreneur-card">
-  <img src="/images/ttribe.png" alt="T-Tribe T-Hub">
+  <img src="/images/dsacit.png" alt="T-Tribe T-Hub">
   <h3>Co-Founder, DSAC-IT</h3>
   <p>
     Co-Founded the first programming club in Vasavi College of Engineering, Focussed on Competitive Programming and open-source development. Conducted Algorithmic challenges, Hackathons, Technical Fests and Paper-Presentations. Conducted Tech-Savishkaar, the largest hackathon in terms of enrollment in Telangana.
@@ -77,7 +77,7 @@ author_profile: true
 </div>
 
 <div class="entrepreneur-card">
-  <img src="/images/ttribe.png" alt="T-Tribe T-Hub">
+  <img src="/images/chitragupta.png" alt="T-Tribe T-Hub">
   <h3>Chitragupta - Team Lead</h3>
   <p>
    Built an accounting software for Karunya Sindhu orphanage called chitragupta, Led the team in building the project starting from design to development and then adopting it in production.
