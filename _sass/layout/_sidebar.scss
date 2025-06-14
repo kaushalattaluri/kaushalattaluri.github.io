@@ -92,10 +92,10 @@
     width: auto;
     height: auto;
   }
-
+/*
   img {
-    max-height: 400px;
-    max-width: 185px;
+    max-height: 100px;
+    max-width: 105px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -103,8 +103,21 @@
       border: 1px solid var(--global-border-color);
     }
   }
-}
+*/
 
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+
+  @include breakpoint($large) {
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
+  }
+}
+}
 .author__content {
   display: table-cell;
   vertical-align: top;

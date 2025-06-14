@@ -10,22 +10,32 @@ author_profile: true
 
 
 **News-Driven Stock Price Forecasting in Indian Markets: A Comparative Study of Advanced Deep Learning Models**  
+*International Conference on Advancement in Technology, 2024*
+
+---
+
+**Empowering Dysarthric Speech: Leveraging Advanced LLMs for Accurate Speech Correction and Multimodal Emotion Analysis**  
+*Not Published*
+
+---
+
+**Enhanced Breast Cancer Relapse Prediction using Ensemble Learning Techniques**  
 *International Conference on Sustainable Expert Systems, 2024*
 
 ---
 
-**Optimizing Dysarthric Speech Recognition using LLaMA 3 and Groq Accelerators**  
-*ACM AssistiveTech Workshop, 2024*
+**MobileNet-Based Deep Learning for Accurate Potato Leaf Disease Detection**  
+*Advanced Communications and Machine Intelligence, 2024*
 
 ---
 
-**Grable AI: A Multi-RAG Framework for Intelligent Querying on Mixed Data Types**  
-*Pegasystems GPTthon, 2024*
+**Real-Time Visual Inspection System for Identification of Fruits and Veggies Using Computer Vision**  
+*International Journal on Recent and Innovation Trends in Computing and Communication, 2023*
 
 ---
 
-**KYC Document Analyzer using OCR and LLMs for Telecom Clients**  
-*Pegasystems Industry Project, 2023*
+**Movie Recommendation Using BERT, General Purpose Text Feature Extractor and Nearest Neighbour Search**  
+*International Journal of All Research Education & Scientific Methods, 2023*
 
 ---
 
@@ -33,17 +43,13 @@ author_profile: true
 
 
 
-**System and Method for Emotion Recognition in Dysarthric Speech using Transformer Models**  
-*Indian Patent Draft, 2024*
+**Development of an Automated farming system using IoT and Drone-based plant disease severity prediction using Deep learning algorithms**  
+*Intellectual Property India, 2024*
 
 ---
 
-**AI Framework for Multi-source Stock Price Forecasting**  
-*Academic Patent Collaboration, 2023*
+**Development of a Novel Fused descriptor-based framework for recognition of fish species Applying Machine learning techniques**  
+*Intellectual Property India, 2024*
 
 ---
 
-**Smart Ocean Catch Monitoring System for Indian Fisheries**  
-*Ministry of Earth Sciences, 2023*
-
----
