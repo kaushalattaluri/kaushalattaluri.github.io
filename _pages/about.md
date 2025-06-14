@@ -41,4 +41,6 @@ I enjoy exploring the intersection of Distributed systems and Machine Learning t
 
 <span style="background-color: #222; color: #fff; padding: 6px 12px; border-radius: 20px; font-size: 14px;">Databases</span>
 
+<span style="background-color: #222; color: #fff; padding: 6px 12px; border-radius: 20px; font-size: 14px;">Serverless Compute</span>
+
 </div>
