@@ -7,21 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hey, 
-
+Hey, 
 I’m **Kaushal Attaluri**, a passionate Software Engineer currently working at **Pega**, where I contribute to the **Cloud Engineering** org, specifically in the **Infra and Databases** team. My role involves ensuring the stability, scalability, and performance of Pega’s cloud-native infrastructure.
 
-💡 Outside of my professional responsibilities, I am a enthusiast in **research and innovation**, with active interests in:
+Outside of my professional responsibilities, I am a enthusiast in **research and innovation**, with active interests in:
 
 - ⚙️ **Machine Learning Systems**
 - 🔐 **Federated Learning and Security**
 - 🧠 **Optimization Algorithms**
 
-I enjoy exploring the intersection of Distributed systems and Machine Learning to design solutions that are scalable, secure, and efficient.
+I enjoy exploring the intersection of Machine Learning and  Distributed systems to design solutions that are scalable, secure, and efficient.
 
----
-
-### 🧰 Technical Skillset
+## 🧰 Technical Skillset
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px;">
 
@@ -46,31 +43,27 @@ I enjoy exploring the intersection of Distributed systems and Machine Learning t
 </div>
 
 ---
-
-## 
----
-
-## 📄 Papers I’ve been reading
+## 📄 Must read papers on:
 
 ### 1. Machine Learning Systems & Privacy
-- **TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems** – Abadi et al.  
-- **Federated Learning: Collaborative Machine Learning without Centralized Training Data** – McMahan et al.  
-- **Membership Inference Attacks Against Machine Learning Models** – Shokri et al.  
-- **Differential Privacy: A Primer for a Non-technical Audience** – Cynthia Dwork
+- *TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems* – Abadi et al.  
+- *Federated Learning: Collaborative Machine Learning without Centralized Training Data* – McMahan et al.  
+- *Membership Inference Attacks Against Machine Learning Models* – Shokri et al.  
+- *Differential Privacy: A Primer for a Non-technical Audience* – Cynthia Dwork
 
 ---
 
 ### 2. Databases & Distributed Systems
-- **Dynamo: Amazon’s Highly Available Key-value Store** – DeCandia et al.  
-- **Spanner: Google’s Globally-Distributed Database** – Corbett et al.  
-- **Raft: In Search of an Understandable Consensus Algorithm** – Ongaro & Ousterhout  
-- **The Design of the Postgres Storage System** – Michael Stonebraker
+- *Dynamo: Amazon’s Highly Available Key-value Store* – DeCandia et al.  
+- *Spanner: Google’s Globally-Distributed Database* – Corbett et al.  
+- *Raft: In Search of an Understandable Consensus Algorithm* – Ongaro & Ousterhout  
+- *The Design of the Postgres Storage System* – Michael Stonebraker
 
 ---
 
 ### 3. Base Papers
-- **MapReduce: Simplified Data Processing on Large Clusters** – Dean & Ghemawat, Google  
-- **The Google File System** – Sanjay Ghemawat et al.  
-- **Bigtable: A Distributed Storage System for Structured Data** – Chang et al.
+- *MapReduce: Simplified Data Processing on Large Clusters* – Dean & Ghemawat, Google  
+- *The Google File System* – Sanjay Ghemawat et al.  
+- *Bigtable: A Distributed Storage System for Structured Data* – Chang et al.
 
 ---
